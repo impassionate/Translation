@@ -1,6 +1,7 @@
 import openai
 import time
 import sys
+import json
 from docx import Document
 
 # ... [your extraction function remains unchanged]
