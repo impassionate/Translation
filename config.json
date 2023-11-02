@@ -1,0 +1,6 @@
+{
+  "name": "trans_eval",
+  "model": "gpt-4",
+  "run_test": "python3 translate_eval.py",
+  "tags": ["score"]
+}
