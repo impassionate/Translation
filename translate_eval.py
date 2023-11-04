@@ -109,6 +109,6 @@ def extract_translate_and_evaluate(java_file_path, api_key):
     return results
 
 # usage:
-api_key = "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"  # Remember to use your own key
+api_key = "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"  # Remember to use your own key
 results = extract_translate_and_evaluate("test.docx", api_key)
-print(results)
+#print(results)
